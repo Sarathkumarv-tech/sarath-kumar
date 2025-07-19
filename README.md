@@ -1,9 +1,27 @@
 # Hi there 👋, I'm Sarath Kumar
 
-🚀 Product Manager at Club Apparel <br> 
-🔁 Expert in Loyalty, ECOM, and POS Integrations  <br>
+🚀 Product Manager at Club Apparel - Apparel Group, I am driving digital transformation initiatives to optimize business processes and enhance customer engagement on the Club Apparel Loyalty mobile application, Website, In-store experience Mobile App, POS system integrations, and ECOM integrations. With 7+ years of experience in the SaaS, B2C, Loyalty, and Telecom industry, I have a proven record of delivering customer-centric solutions, enhancing overall user experiences, and achieving business growth. I have worked in GCC, and Sri Lanka. <br> 
+🔁 My core skills include Product management, Vendor & Stakeholder management, Mobile App development and enhancements, Web application development, Project management, and Agile methodology. I am responsible for strategy, marketing, product development, customer support, loyalty promotions, and working closely with the higher management and other teams.  <br>
 📊 Passionate about Product-led Growth and Digital Retail  <br>
 📍 Based in Dubai | Open to collaboration  <br>
+
+📈 Key Achievements:<br>
+
+📊 Enhanced conversion rates on the web and app through strategic optimizations.<br>
+📅 Agile Product enthusiast with expertise in product roadmap, product requirements and conducting agile ceremonies along with collaborating with cross-functional business and engineering teams across the company.<br>
+🏁 Consistently delivered on sprint goals.<br>
+🌐 Managed the product roadmap that created a positive impact on the business metrics.<br>
+
+🏆 Product Management Highlights:<br>
+
+🌍 Expanded services into new verticals and countries.<br>
+🤖 Automated manual/time-consuming process to improve customer efficiency.<br>
+📊 Proactively identified user funnel drop-off points and proposed data-driven solutions.<br>
+🔄 Efficient sprint planning and user story translation along with maintaining and preparing product roadmaps.<br>
+📝 Proficient in managing backlogs aligned with stakeholder needs.<br>
+🎨 Collaborated with design teams to elevate UI/UX.<br>
+👥 Fostered cross-functional collaboration for feature launches.<br>
+
 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vsarathkumar/)<br>
 
