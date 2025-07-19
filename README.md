@@ -1,8 +1,11 @@
 # Hi there 👋, I'm Sarath Kumar
 
 🚀 Product Manager at Club Apparel - Apparel Group, I am driving digital transformation initiatives to optimize business processes and enhance customer engagement on the Club Apparel Loyalty mobile application, Website, In-store experience Mobile App, POS system integrations, and ECOM integrations. With 7+ years of experience in the SaaS, B2C, Loyalty, and Telecom industry, I have a proven record of delivering customer-centric solutions, enhancing overall user experiences, and achieving business growth. I have worked in GCC, and Sri Lanka. <br> 
+
 🔁 My core skills include Product management, Vendor & Stakeholder management, Mobile App development and enhancements, Web application development, Project management, and Agile methodology. I am responsible for strategy, marketing, product development, customer support, loyalty promotions, and working closely with the higher management and other teams.  <br>
+
 📊 Passionate about Product-led Growth and Digital Retail  <br>
+
 📍 Based in Dubai | Open to collaboration  <br>
 
 📈 Key Achievements:<br>
